@@ -1,0 +1,11 @@
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\geova\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
